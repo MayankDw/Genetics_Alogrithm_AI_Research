@@ -1,0 +1,10 @@
+Metric,Value,Target/Threshold
+Total Cost,"$740,412.27",Minimize
+Procurement Cost,Included in Total,-
+Warehouse Cost,Included in Total,-
+Transportation Cost,Included in Total,-
+Average Lead Time,12.00 days,< 20 days
+Average Quality Score,0.880,> 0.70
+Risk Score (Reliability),0.862,Maximize
+Fitness Score,0.2635,Maximize
+Constraint Violations,0.1650,= 0 (ideal)
